@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hi, I'm Mauro Guitron (@wizardo101)
 
-<!--
-**wizardo101/wizardo101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering student | Passionate about cybersecurity, development, and lifelong learning.
 
-Here are some ideas to get you started:
+📌 Links:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🆔 [ORCID](https://orcid.org/0009-0009-1053-2274)
+- 📷 [@mguitron_](https://instagram.com/mguitron_)
+- 💼 [mauro-guitron](https://www.linkedin.com/in/mauro-guitron-575430159)
+- 🐦 [@wizardios101](https://x.com/wizardios101)
+
+---
+
+📫 Contact: wizardo101@protonmail.com  
+🐱 GitHub: [@wizardo101](https://github.com/wizardo101)
